@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1a1625;
+}
+body h1 {
+  font-size: 50px;
+}
+body h2 {
+  font-size: 30px;
+}
+body .title {
+  margin-bottom: 100px;
+}
+body .couter p {
+  font-size: 50px;
+}
+body .couter button {
+  background: none;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin-right: 20px;
+  padding: 10px 20px;
+}
+body .input {
+  margin-top: 50px;
+}
+body .input input {
+  margin-top: 20px;
+  background: none;
+  padding: 10px 20px;
+  border: 1px solid white;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}/*# sourceMappingURL=style.css.map */
