@@ -16,11 +16,11 @@ React Hooks are a set of functions introduced in React 16.8 that allow you to us
 
 The repository is organized into folders, each dedicated to a specific React Hook:
 
-- **`useState/`**: Explanation, examples, and usage of the `useState` Hook.
-- **`useEffect/`**: Explanation, examples, and usage of the `useEffect` Hook.
-- **`useContext/`**: Explanation, examples, and usage of the `useContext` Hook.
-- **`useReducer/`**: Explanation, examples, and usage of the `useReducer` Hook.
-- **`useRef/`**: Explanation, examples, and usage of the `useRef` Hook.
+- **`use-state/`**: Explanation, examples, and usage of the `useState` Hook.
+- **`use-effect/`**: Explanation, examples, and usage of the `useEffect` Hook.
+- **`use-context/`**: Explanation, examples, and usage of the `useContext` Hook.
+- **`use-reducer/`**: Explanation, examples, and usage of the `useReducer` Hook.
+- **`use-ref/`**: Explanation, examples, and usage of the `useRef` Hook.
 
 Each folder contains:
 
@@ -28,4 +28,4 @@ Each folder contains:
 
 ## Thank You
 
-Thank you for visiting the **Learn React Hooks** repository! We hope this resource helps you gain a deeper understanding of React Hooks and enhances your development skills. If you have any questions or feedback, feel free to reach out or contribute to the repository. Happy coding!
+Thank you for visiting the **Learn React Hooks** repository! I hope this resource helps you gain a deeper understanding of React Hooks and enhances your development skills. If you have any questions or feedback, feel free to reach out or contribute to the repository. Happy coding!
