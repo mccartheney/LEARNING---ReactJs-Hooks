@@ -61,20 +61,18 @@ The `useState` Hook is one of the fundamental Hooks provided by React. It allows
 ## Syntax
 
 ```javascript
-const [state, setState] = useState(initialState);
+// const [state, setState] = useState(initialState);
 
-    state: The current state value.
-    setState: A function to update the state.
-    initialState: The initial value of the state.
+//     state: The current state value.
+//     setState: A function to update the state.
+//     initialState: The initial value of the state.
 
-Usage
+// Usage
 
-The useState Hook is used to declare state variables in functional components. You can use this Hook to store values that need to be remembered across re-renders of the component.
-Example
+// The useState Hook is used to declare state variables in functional components. You can use this Hook to store values that need to be remembered across re-renders of the component.
+// Example
 
-Here’s a simple example demonstrating how to use the useState Hook to manage a counter:
-
-javascript
+// Here’s a simple example demonstrating how to use the useState Hook to manage a counter:
 
 import React, { useState } from 'react';
 
@@ -121,8 +119,10 @@ export default Counter;
 
 ### Additional Resources
 
--React Documentation on useState
+## Additional Resources
 
--React Hooks API Reference
+- [React Documentation on useState](https://reactjs.org/docs/hooks-state.html)
+- [React Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
+
 
 I hope this guide helps you effectively use the useState Hook in your React applications. If you have any questions or need further clarification, feel free to reach out or explore additional examples in this repository.
