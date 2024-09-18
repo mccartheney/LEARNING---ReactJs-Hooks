@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1a1625;
+}
+body input {
+  display: block;
+  padding: 10px 20px;
+  border: 1px solid white;
+  background: none;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+body button {
+  display: block;
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  background: none;
+  border: 1px solid white;
+  cursor: pointer;
+  border-radius: 10px;
+}
+body h1 {
+  font-size: 50px;
+}
+body .title {
+  margin-bottom: 100px;
+}/*# sourceMappingURL=style.css.map */
